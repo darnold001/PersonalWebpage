@@ -1,0 +1,25 @@
+.app {
+  text-align: center;
+  background-color: rgb(50, 66, 80);
+  min-height: 700px;
+  margin: auto;
+  text-align: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+  width: 100%;
+  min-height: 900px;
+  padding:30px;
+}
+.WelcomeContainer{
+  margin-top: 5%;
+  justify-content: center;
+  color:white;
+}
+
+.name{
+  font-size: 25px;
+}
+.WelcomeTitle{
+  font-size:35px;
+}
