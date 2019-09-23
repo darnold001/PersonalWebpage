@@ -9,7 +9,7 @@
   background-size:cover;
   width: 100%;
   min-height: 900px;
-  padding:30px;
+  padding:1px;
 }
 .WelcomeContainer{
   margin-top: 5%;
@@ -21,5 +21,9 @@
   font-size: 25px;
 }
 .WelcomeTitle{
+  padding-top: 30px;
   font-size:35px;
+}
+.logo{
+  max-height: 15
 }
